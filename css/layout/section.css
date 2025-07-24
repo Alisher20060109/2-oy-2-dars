@@ -1,0 +1,92 @@
+.mobilne-clas {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-top: 150px;
+    padding-bottom: 180px;
+    gap: 78px;
+}
+
+.mobilne-class__titl {
+    font-size: 40px;
+    padding-bottom: 50px;
+   
+}
+.mobilne-class__text1{
+    font-size: 18px;
+    padding-bottom: 50px;
+
+}
+.mobilne-class__text2{
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.mobilne-class__btn{
+    width: 267px;
+    height: 55px;
+    border-radius: 32px;
+    font-size: 18px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.mobilne-class__btn:hover{
+    background-color: black;
+    color: aliceblue;
+    width: 500px;
+}
+.cardlar-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cardlar-cards__card1{
+    border-radius: 15px;
+    background-color:   #29A28C;
+    width: 340px;
+    height: 466px;
+}
+.cardlar-card1__titl{
+    padding-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+
+}
+.cardlar-card1__text{
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.cardlar-card1__im{
+    padding-left: 40px;
+    padding-top: 40px;
+   
+}
+.kak-card{
+    display: flex;
+    padding-top: 180px;
+    padding-bottom: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+.kak-card__titl{
+    font-size: 40px;
+    padding-bottom: 75px;
+}
+.kak-card__text{
+    font-size: 18px;
+    padding-bottom: 70px;
+}
+.kak-card__btn{
+    width: 267px;
+    height: 55px;
+    border-radius: 25px;
+    font-size: 18px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.kak-card__btn:hover{
+    background-color: black;
+    color: aliceblue;
+    width: 500px;
+} 

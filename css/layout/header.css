@@ -1,0 +1,20 @@
+.devclout-logo{
+    display: flex;
+    align-items: center;
+}
+.devclout{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.devclout ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    cursor: pointer;
+}
+header{
+    background-color: #29A28C1C;
+    padding: 10px;
+
+}
